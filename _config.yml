@@ -1,0 +1,28 @@
+name: Gummy Vision
+favicon: null
+layout_spectrum: 0.13480448513291776
+typography_spectrum: 0.17223402089439332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.12241011369042099
+  lightness: 0.772975966334343
+  saturation: 0.4140199199318886
+  rhythmicContrast: 0.543112477986142
+purpose: []
